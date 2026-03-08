@@ -1,0 +1,5 @@
+flask
+requests
+speechrecognition
+pyttsx3
+pyautogui
